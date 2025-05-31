@@ -10,9 +10,6 @@ namespace API
         public Form1()
         {
             InitializeComponent();
-
-            
-            
         }
 
         private async void btnBuscar_Click(object sender, EventArgs e)
